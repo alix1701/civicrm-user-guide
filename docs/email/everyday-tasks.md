@@ -1,26 +1,17 @@
-Everyday tasks
+Les tâches quotidiennes
 ==============
 
-This chapter contains step-by-step instructions for performing some important
-everyday tasks with email. Sending a mass mailing through CiviMail is covered
-in [Mass mailings using CiviMail](../email/mass-mailings-using-civimail)
+Ce chapitre décrit les tâches quotidiennes liées à la gestion de vos envois de courriels de masse. L’envoi en masse est expliqué dans le chapitre [Mass mailings using CiviMail](../email/mass-mailings-using-civimail)
 
-Send an email to one person (with CC and BCC)
+Envoi d’un courriel à une seule personne (avec CC et CCI)
 -----------------------------------------------
+Vous pouvez utiliser CiviCRM pour envoyer des courriels individuels. Une telle utilisation peut s’avérer utile si vous souhaitez que d’autres personnes de votre organisation soient en copie ou, alors, si vous voulez réutiliser un modèle de courriel précédemment défini.
 
-You can use CiviCRM to send an email to individuals. Using CiviCRM for
-this purpose is useful if you want other people at your organisation to
-see the email or if you want to send an email based on a pre-defined
-template.
+1.  Recherchez la personne destinataire du courriel. Il y a deux façons de procéder :
+    -   Utiliser la zone de recherche rapide (en haut à gauche). Cliquer à l’intérieur et saisissez les premiers caractères du nom ou de l’adresse email de la personne.
+        Dans la liste de choix contextuelle, sélectionnez la bonne personne.
+    -   Sélectionnez l’option de menu **Recherche > Chercher un contact**. Saisissez le nom de la personne ou son adresse email. Cliquer sur le bouton Chercher, puis sur le nom de cette personne lorsque le résultat de la recherche apparait.
 
-1.  Find the person you wish to email. There are two common ways to do
-    this:
-    -   Use the Quick Search box on the top left. Click inside the box
-        and begin typing a part of the person's name or email address.
-        Choose the person from the choices that are presented.
-    -   Navigate to **Search > Find Contact**. Enter part of the
-        person's name or email address. Click Search and click on the
-        person's name when it shows up on the search results screen.
 2.  From the contact summary page, click **Actions > Send an email** or
     click the **Activities** tab and choose **Send an Email** from the
     dropdown menu.
